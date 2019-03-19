@@ -1,6 +1,6 @@
-# APS_project
-Binomial heap implementation with applications:-
 
+# Binomial heap implementation with applications:-
+### APS_project
 This Repository contains the various cpp files:
 
 1. binomialheap.cpp is the file containing code for binomial heap implementation.
