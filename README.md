@@ -7,7 +7,7 @@ This Repository contains the various cpp files:
 2. avltree.cpp is the file containing code for AVL tree implementation.
 3. rbtree.cpp is the file containing code for RB tree implementation.
 
-Implementation of application of binomial heap i.e Prims using binomial heap:=
+# Implementation of application of binomial heap i.e Prims using binomial heap:=
 
 4. primbinomial.cpp is the program for Prims algorithm implementation using binomial heap.
 5. primPriorityQueue.cpp is the standard Prims algorithm implemented using priority queue.
@@ -24,4 +24,4 @@ i) The folder Number generator files contains the programs to generate random, s
 ii) The folder Graph plot files contains the python programs to plot various graphs used for time comparison between three data structures.  <br>
 iii) The folder Graph contains the images of various graphs used in report file.  <br>
 
---> APS_Project_report.tex and APS_Project_report.pdf are the report files which contains the detailed description of the project and our observations along with the details of how to run the program files.
+--> APS_Project_report.tex and <b> APS_Project_report.pdf </b> are the report files which contains the detailed description of the project and our observations along with the details of how to run the program files.
