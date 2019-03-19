@@ -7,7 +7,7 @@ This Repository contains the various cpp files:
 2. avltree.cpp is the file containing code for AVL tree implementation.
 3. rbtree.cpp is the file containing code for RB tree implementation.
 
-# Implementation of application of binomial heap i.e Prims using binomial heap:=
+# Implementation of application of binomial heap i.e Prims using binomial heap:-
 
 4. primbinomial.cpp is the program for Prims algorithm implementation using binomial heap.
 5. primPriorityQueue.cpp is the standard Prims algorithm implemented using priority queue.
