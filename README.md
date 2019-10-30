@@ -47,7 +47,7 @@ A Binomial Tree of order 0 has 1 node. A Binomial Tree of order k can be constru
 A Binomial Tree of order k has following properties.
 - It has exactly 2k nodes.
 - It has depth as k.
-- There are exactly kCi nodes at depth i for i = 0, 1, . . . , k.
+- There are exactly kCi nodes at depth i for i = 0, 1, . . . . , k.
 - The root has degree k and children of root are themselves Binomial Trees with order k-1, k-2,.. 0 from left to right.
 
 Because of its unique structure, a binomial tree of order k can be constructed from two trees of order k−1 trivially by attaching one of them as the leftmost child of the root of the other tree. This feature is central to the merge operation of a binomial heap, which is its major advantage over other conventional heaps.
